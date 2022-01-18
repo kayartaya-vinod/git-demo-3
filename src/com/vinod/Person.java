@@ -1,6 +1,6 @@
 package com.vinod;
 
-// @author: Vinod KK
+// @author: Vinod Kumar Kayartaya
 public class Person {
 
     private String name;
