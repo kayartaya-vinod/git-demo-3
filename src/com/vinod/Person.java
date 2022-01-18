@@ -17,4 +17,9 @@ public class Person {
         this.email = email;
         this.phone = phone;
     }
+    
+    public Person(String name, String email){
+        this.name = name;
+        this.email = email;
+    }
 }
