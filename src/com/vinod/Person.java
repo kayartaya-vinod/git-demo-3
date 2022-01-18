@@ -1,6 +1,5 @@
 package com.vinod;
 
-
 public class Person {
 
     private String name;
@@ -8,4 +7,7 @@ public class Person {
     private String phone;
 
     // TODO: add constructors and setters/getters along with toString
+
+    public Person() {
+    }
 }
